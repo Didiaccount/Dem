@@ -29,4 +29,3 @@ jobs:
       - name: Run Bishal.py
         run: python3 Bishal.py
         
-runs-on: ubuntu-latest

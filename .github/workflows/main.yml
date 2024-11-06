@@ -8,7 +8,7 @@ on:
     - cron: '*/5 * * * *'
 
 jobs:
-  run_Dem_workflow:
+  run_dem_workflow:
     runs-on: ubuntu-latest
 
     steps:
